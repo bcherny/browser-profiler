@@ -1,6 +1,6 @@
 {
   "name": "browser-profiler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple real world browser profiler. measures an event, reloads the page for you, and reports results.",
   "main": "index.js",
   "scripts": {

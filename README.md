@@ -15,10 +15,12 @@
     window.myProfiler = new Profiler('MY_PROFILE')
   </script>
 
-  <!-- 3. tell the profiler when a run has finished -->
+  <!-- 3. profile an operation -->
   <script>
+    const startTime = window.performance.now()
     doSomeOperation()
-    window.myProfiler.done()
+    const endTime = window.performance.now()
+    window.myProfiler.done(endTime - startTime)
   </script>
 </body>
 </html>
