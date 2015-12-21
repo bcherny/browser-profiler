@@ -1,0 +1,34 @@
+{
+  "name": "browser-profiler",
+  "version": "1.0.0",
+  "description": "simple real world browser profiler. measures an event, reloads the page for you, and reports results.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bcherny/browser-profiler.git"
+  },
+  "keywords": [
+    "profile",
+    "benchmark",
+    "browser",
+    "chrome",
+    "reload",
+    "refresh",
+    "across",
+    "load",
+    "event",
+    "time",
+    "timing",
+    "performance",
+    "perf"
+  ],
+  "author": "Boris Cherny <boris@performancejs.com>",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/bcherny/browser-profiler/issues"
+  },
+  "homepage": "https://github.com/bcherny/browser-profiler#readme"
+}

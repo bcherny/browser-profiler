@@ -1,0 +1,27 @@
+{
+  "name": "browser-profiler",
+  "main": "index.js",
+  "version": "1.0.0",
+  "authors": [
+    "Boris Cherny <boris@performancejs.com>"
+  ],
+  "description": "simple real world browser profiler. measures an event, reloads the page for you, and reports results.",
+  "moduleType": [],
+  "keywords": [
+    "profile",
+    "benchmark",
+    "browser",
+    "chrome",
+    "reload",
+    "refresh",
+    "across",
+    "load",
+    "event",
+    "time",
+    "timing",
+    "performance",
+    "perf"
+  ],
+  "license": "CC-BY-4.0",
+  "homepage": "https://github.com/bcherny/browser-profiler"
+}
